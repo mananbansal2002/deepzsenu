@@ -1,16 +1,15 @@
 ### Hi there 👋 I am Deepak Kumar Saxena
+### Visit my detailed [profile](https://drive.google.com/file/d/1_ks4MSCqJwOaIYi-wz1g-Bv0NB2By_7y/view?usp=sharing)
 
-<!--
-**deepzsenu/deepzsenu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Datascience and computer Vision
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Computer Vision** 
+- 🌱 I’m currently __learning NLP__
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- :eyes: I’m looking for help with __Data Science__
+- 💬 Ask me about _tech facts_
+- :telephone_receiver: How to reach me: [LinkedIn](https://www.linkedin.com/in/deepzsenu/) or Email- deepzsenu@gmail.com 
+- :snowflake: Active on : [Kaggle](https://www.kaggle.com/deepzsenu) and [HackerRank](https://www.hackerrank.com/deepzsenu)
+- 😄 Pronouns: DS
+- ⚡ Fun fact: Wanna build cool stuffs 

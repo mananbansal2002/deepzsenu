@@ -1,14 +1,16 @@
+
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="center" alt="Coder GIF" width="300" height="280">
 </p>
 <h1 align="center">Hi, I'm <b><i>Deepak Kumar Saxena</i></b>:wave:</h1>
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=deepzsenu" alt="deepzsenu" /> </p>
 
 <table>
   <tr>
     <td><h3>You are Visitor: </h3></td>
-    <td><img src="https://profile-counter.glitch.me/deepzsenu/count.svg" alt="vistor count" height="50" /></td>
+    <td><img src="https://profile-counter.glitch.me/deepzsenu/count.svg" alt="vistor count" height="40" /></td>
   </tr>
 </table>
 

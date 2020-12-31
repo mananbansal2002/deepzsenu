@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.webp" align="center" alt="Coder GIF" width="600" height="300">
+  <img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" align="center" alt="Coder GIF" width="600" height="300">
 </p>
 <h1 align="center">Hi, I'm <b><i>Deepak Kumar Saxena</i></b>:wave:</h1>
 

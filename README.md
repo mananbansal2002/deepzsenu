@@ -3,6 +3,7 @@
   <img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" align="center" alt="Coder GIF" width="480" height="260">
 </p>
 <h1 align="center">Hi, I'm <b><i>Deepak Kumar Saxena</i></b>:wave:</h1>
+<h1 align="center">Hi, I'm <b><i>coding is fun</i></b></h1>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=deepzsenu" alt="deepzsenu" /> </p>
